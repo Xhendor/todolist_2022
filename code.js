@@ -1,5 +1,3 @@
-
-
 $(document).ready(function () {
     var i = 0;
     for (i = 0; i < localStorage.length; i++) {
